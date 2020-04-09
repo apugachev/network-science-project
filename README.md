@@ -1,1 +1,2 @@
-# network-science-project
+# Network Science Project
+## VK friends network analysis
